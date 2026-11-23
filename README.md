@@ -27,3 +27,5 @@ Windows (PowerShell):
     python random-or-reason/scripts/agreement_check.py --self-test
 
 Status: v0.2.
+
+License: Apache 2.0, see `LICENSE`.
